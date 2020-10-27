@@ -1,0 +1,26 @@
+<annotation>
+	<folder>adidas_flickr_1-100</folder>
+	<filename>adidas_flickr_93.jpg</filename>
+	<path>C:\Users\saraa\Desktop\thesis\adidas\adidas_flickr_1-100\adidas_flickr_93.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>3456</width>
+		<height>2304</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>adidas</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>996</xmin>
+			<ymin>694</ymin>
+			<xmax>1246</xmax>
+			<ymax>908</ymax>
+		</bndbox>
+	</object>
+</annotation>

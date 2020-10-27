@@ -1,0 +1,38 @@
+<annotation>
+	<folder>A J</folder>
+	<filename>adidas_574.jpg</filename>
+	<path>C:\Users\muell\Desktop\A J\adidas_574.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1080</width>
+		<height>1346</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Adidas</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>279</xmin>
+			<ymin>446</ymin>
+			<xmax>415</xmax>
+			<ymax>568</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Adidas</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>754</xmin>
+			<ymin>467</ymin>
+			<xmax>847</xmax>
+			<ymax>589</ymax>
+		</bndbox>
+	</object>
+</annotation>

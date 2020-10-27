@@ -1,0 +1,38 @@
+<annotation>
+	<folder>Pietro</folder>
+	<filename>Image_107.jpg</filename>
+	<path>/Users/BosaniPietro/Desktop/Academics/Bocconi/DSBA/Classes/Semester 3/Deep Learning for Computer Vision/Labelling Task/Adidas Images/Pietro/Image_107.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>958</width>
+		<height>934</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Adidas</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>117</xmin>
+			<ymin>499</ymin>
+			<xmax>412</xmax>
+			<ymax>729</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Adidas</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>552</xmin>
+			<ymin>509</ymin>
+			<xmax>849</xmax>
+			<ymax>735</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation verified="yes">
+	<folder>adidas</folder>
+	<filename>adidas_240.jpeg</filename>
+	<path>/Users/BosaniPietro/Desktop/Academics/Bocconi/DSBA/Classes/Semester 3/Deep Learning for Computer Vision/Labelling Task/adidas/adidas_240.jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1276</width>
+		<height>937</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Adidas</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>630</xmin>
+			<ymin>4</ymin>
+			<xmax>918</xmax>
+			<ymax>194</ymax>
+		</bndbox>
+	</object>
+</annotation>

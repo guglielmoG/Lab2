@@ -1,0 +1,26 @@
+<annotation>
+	<folder>adidas_flickr_201-300</folder>
+	<filename>adidas_flickr_291.jpg</filename>
+	<path>/Users/donatopalermo/Desktop/adidas_flickr_201-300/adidas_flickr_291.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>3264</width>
+		<height>2448</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Adidas</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1558</xmin>
+			<ymin>1089</ymin>
+			<xmax>1715</xmax>
+			<ymax>1215</ymax>
+		</bndbox>
+	</object>
+</annotation>

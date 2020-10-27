@@ -1,0 +1,26 @@
+<annotation>
+	<folder>adidas_flickr_101-200</folder>
+	<filename>adidas_flickr_120.jpg</filename>
+	<path>/Users/giuliadellapedrina/Downloads/adidas_flickr_101-200/adidas_flickr_120.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>4752</width>
+		<height>3168</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Adidas</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>3349</xmin>
+			<ymin>2826</ymin>
+			<xmax>3767</xmax>
+			<ymax>3076</ymax>
+		</bndbox>
+	</object>
+</annotation>

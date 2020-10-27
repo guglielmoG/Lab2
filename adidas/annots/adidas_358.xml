@@ -1,0 +1,38 @@
+<annotation>
+	<folder>adidas (301-400)</folder>
+	<filename>adidas_358.jpeg</filename>
+	<path>/Users/iaia/Desktop/adidas (301-400)/adidas_358.jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>385</width>
+		<height>385</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Adidas</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>118</xmin>
+			<ymin>237</ymin>
+			<xmax>141</xmax>
+			<ymax>261</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Adidas</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>244</xmin>
+			<ymin>246</ymin>
+			<xmax>265</xmax>
+			<ymax>267</ymax>
+		</bndbox>
+	</object>
+</annotation>
