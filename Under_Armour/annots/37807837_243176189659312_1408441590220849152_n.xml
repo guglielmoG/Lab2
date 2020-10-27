@@ -1,0 +1,26 @@
+<annotation>
+	<folder>UA_Sebastiano</folder>
+	<filename>37807837_243176189659312_1408441590220849152_n.jpg</filename>
+	<path>/home/sebastiano/Documents/02_deep_learning_for_computer_vision/UA_Sebastiano/37807837_243176189659312_1408441590220849152_n.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1080</width>
+		<height>1346</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Under_Armour</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>573</xmin>
+			<ymin>656</ymin>
+			<xmax>591</xmax>
+			<ymax>674</ymax>
+		</bndbox>
+	</object>
+</annotation>

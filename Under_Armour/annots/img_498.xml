@@ -1,0 +1,26 @@
+<annotation>
+	<folder>MIO</folder>
+	<filename>img_498.jpg</filename>
+	<path>/Users/francescabianchessi/Downloads/MIO/img_498.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>201</width>
+		<height>251</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Under_Armour</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>57</xmin>
+			<ymin>79</ymin>
+			<xmax>112</xmax>
+			<ymax>120</ymax>
+		</bndbox>
+	</object>
+</annotation>

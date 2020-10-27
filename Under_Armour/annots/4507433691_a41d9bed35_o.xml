@@ -1,0 +1,26 @@
+<annotation>
+	<folder>1_100</folder>
+	<filename>4507433691_a41d9bed35_o.jpg</filename>
+	<path>/Users/yenerkaraca/Downloads/1_100/4507433691_a41d9bed35_o.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>1248</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Under_Armour</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>431</xmin>
+			<ymin>928</ymin>
+			<xmax>501</xmax>
+			<ymax>984</ymax>
+		</bndbox>
+	</object>
+</annotation>

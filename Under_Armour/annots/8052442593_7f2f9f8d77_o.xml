@@ -1,0 +1,38 @@
+<annotation>
+	<folder>201_300</folder>
+	<filename>8052442593_7f2f9f8d77_o.jpg</filename>
+	<path>D:\Bocconi - 2nd year\20600 Deep learning\201_300\201_300\8052442593_7f2f9f8d77_o.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>500</width>
+		<height>500</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Under_Armour</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>174</xmin>
+			<ymin>148</ymin>
+			<xmax>197</xmax>
+			<ymax>162</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Under_Armour</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>323</xmin>
+			<ymin>90</ymin>
+			<xmax>338</xmax>
+			<ymax>99</ymax>
+		</bndbox>
+	</object>
+</annotation>

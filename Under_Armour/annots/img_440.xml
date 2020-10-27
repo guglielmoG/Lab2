@@ -1,0 +1,26 @@
+<annotation>
+	<folder>MIO</folder>
+	<filename>img_440.jpg</filename>
+	<path>/Users/francescabianchessi/Downloads/MIO/img_440.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>236</width>
+		<height>607</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Under_Armour</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>18</xmin>
+			<ymin>158</ymin>
+			<xmax>62</xmax>
+			<ymax>197</ymax>
+		</bndbox>
+	</object>
+</annotation>

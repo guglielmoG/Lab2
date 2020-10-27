@@ -1,0 +1,38 @@
+<annotation>
+	<folder>ANNOTATED IMAGES</folder>
+	<filename>2016-08-21_21-00-02_UTC.jpg</filename>
+	<path>C:\Users\simon\Desktop\Under_Armour_Project\ANNOTATED IMAGES\2016-08-21_21-00-02_UTC.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1080</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Under_Armour</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>569</xmin>
+			<ymin>408</ymin>
+			<xmax>772</xmax>
+			<ymax>605</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Under_Armour</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>533</xmin>
+			<ymin>218</ymin>
+			<xmax>630</xmax>
+			<ymax>295</ymax>
+		</bndbox>
+	</object>
+</annotation>

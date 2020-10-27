@@ -1,0 +1,26 @@
+<annotation>
+	<folder>under_armour_pictures</folder>
+	<filename>1368010-002_UNDS_SL.jpg</filename>
+	<path>/Users/gianlucaregoli/Desktop/under_armour_pictures/1368010-002_UNDS_SL.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1836</width>
+		<height>1950</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Under_Armour</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1199</xmin>
+			<ymin>1199</ymin>
+			<xmax>1255</xmax>
+			<ymax>1260</ymax>
+		</bndbox>
+	</object>
+</annotation>

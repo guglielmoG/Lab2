@@ -1,0 +1,26 @@
+<annotation>
+	<folder>underarmour</folder>
+	<filename>image_344.jpg</filename>
+	<path>D:\Desktop\underarmour\image_344.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>183</width>
+		<height>275</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Under_Armour</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>6</xmin>
+			<ymin>4</ymin>
+			<xmax>33</xmax>
+			<ymax>23</ymax>
+		</bndbox>
+	</object>
+</annotation>

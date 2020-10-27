@@ -1,0 +1,26 @@
+<annotation>
+	<folder>under_armour_pictures</folder>
+	<filename>21979692-1-black.jpg</filename>
+	<path>/Users/gianlucaregoli/Desktop/under_armour_pictures/21979692-1-black.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>476</width>
+		<height>608</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Under_Armour</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>101</xmin>
+			<ymin>286</ymin>
+			<xmax>209</xmax>
+			<ymax>360</ymax>
+		</bndbox>
+	</object>
+</annotation>

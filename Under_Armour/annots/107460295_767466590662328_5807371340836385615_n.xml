@@ -1,0 +1,26 @@
+<annotation>
+	<folder>UA_Andrea</folder>
+	<filename>107460295_767466590662328_5807371340836385615_n.jpg</filename>
+	<path>C:\Users\acer\Desktop\UA_labael\UA_Andrea\107460295_767466590662328_5807371340836385615_n.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>960</width>
+		<height>960</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Under_Armour</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>362</xmin>
+			<ymin>323</ymin>
+			<xmax>577</xmax>
+			<ymax>462</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>underarmour</folder>
+	<filename>img_604.jpg</filename>
+	<path>C:\Users\anna9\Downloads\underarmour\underarmour\img_604.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>251</width>
+		<height>201</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Under_Armour</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>13</xmin>
+			<ymin>14</ymin>
+			<xmax>55</xmax>
+			<ymax>40</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Under_ar</folder>
+	<filename>121172310_730023931190931_3338988026699375114_n.jpg</filename>
+	<path>C:\Users\Filippo\Desktop\Under_ar\121172310_730023931190931_3338988026699375114_n.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>670</width>
+		<height>351</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Under_Armour</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>210</xmin>
+			<ymin>102</ymin>
+			<xmax>307</xmax>
+			<ymax>166</ymax>
+		</bndbox>
+	</object>
+</annotation>

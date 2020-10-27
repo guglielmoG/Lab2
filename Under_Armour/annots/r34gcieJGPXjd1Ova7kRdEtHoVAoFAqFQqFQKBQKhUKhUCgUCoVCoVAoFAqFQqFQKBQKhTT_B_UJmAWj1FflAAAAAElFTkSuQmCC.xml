@@ -1,0 +1,26 @@
+<annotation>
+	<folder>under armour - Ricerca Google</folder>
+	<filename>r34gcieJGPXjd1Ova7kRdEtHoVAoFAqFQqFQKBQKhUKhUCgUCoVCoVAoFAqFQqFQKBQKhTT_B_UJmAWj1FflAAAAAElFTkSuQmCC.png</filename>
+	<path>C:\Users\giova\Desktop\MARKETING\under armour - Ricerca Google\r34gcieJGPXjd1Ova7kRdEtHoVAoFAqFQqFQKBQKhUKhUCgUCoVCoVAoFAqFQqFQKBQKhTT_B_UJmAWj1FflAAAAAElFTkSuQmCC.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>246</width>
+		<height>205</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Under_Armour</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>50</xmin>
+			<ymin>28</ymin>
+			<xmax>194</xmax>
+			<ymax>142</ymax>
+		</bndbox>
+	</object>
+</annotation>

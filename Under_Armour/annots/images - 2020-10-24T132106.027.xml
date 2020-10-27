@@ -1,0 +1,26 @@
+<annotation>
+	<folder>under armour - Ricerca Google</folder>
+	<filename>images - 2020-10-24T132106.027.jpg</filename>
+	<path>C:\Users\giova\Desktop\MARKETING\under armour - Ricerca Google\images - 2020-10-24T132106.027.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>218</width>
+		<height>231</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Under_Armour</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>60</xmin>
+			<ymin>141</ymin>
+			<xmax>87</xmax>
+			<ymax>165</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Under_Armour_Flickr_1_100</folder>
+	<filename>42968070161_3cf1a25332_o.png</filename>
+	<path>/Users/yenerkaraca/Downloads/Under_Armour_Flickr_1_100/42968070161_3cf1a25332_o.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1031</width>
+		<height>1476</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Under_Armour</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>589</xmin>
+			<ymin>460</ymin>
+			<xmax>654</xmax>
+			<ymax>507</ymax>
+		</bndbox>
+	</object>
+</annotation>

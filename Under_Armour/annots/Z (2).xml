@@ -1,0 +1,26 @@
+<annotation>
+	<folder>under armour - Ricerca Google</folder>
+	<filename>Z (2).jpg</filename>
+	<path>C:\Users\giova\Desktop\MARKETING\under armour - Ricerca Google\Z (2).jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>177</width>
+		<height>177</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Under_Armour</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>14</xmin>
+			<ymin>102</ymin>
+			<xmax>42</xmax>
+			<ymax>121</ymax>
+		</bndbox>
+	</object>
+</annotation>

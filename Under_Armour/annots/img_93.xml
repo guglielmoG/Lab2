@@ -1,0 +1,26 @@
+<annotation>
+	<folder>underarmour</folder>
+	<filename>img_93.jpg</filename>
+	<path>C:\Users\giova\Desktop\MARKETING\underarmour\img_93.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>196</width>
+		<height>196</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Under_Armour</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>103</xmin>
+			<ymin>81</ymin>
+			<xmax>143</xmax>
+			<ymax>111</ymax>
+		</bndbox>
+	</object>
+</annotation>

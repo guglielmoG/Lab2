@@ -1,0 +1,26 @@
+<annotation>
+	<folder>under armour sport</folder>
+	<filename>e46b630401.jpg</filename>
+	<path>/Users/lorenzo_salvi/Desktop/Deep_Learning/UA/under armour sport/e46b630401.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2480</width>
+		<height>1530</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Under_Armour</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>586</xmin>
+			<ymin>375</ymin>
+			<xmax>699</xmax>
+			<ymax>456</ymax>
+		</bndbox>
+	</object>
+</annotation>
