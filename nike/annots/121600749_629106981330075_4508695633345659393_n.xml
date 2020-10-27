@@ -1,0 +1,38 @@
+<annotation>
+	<folder>Nikewear</folder>
+	<filename>121600749_629106981330075_4508695633345659393_n.jpg</filename>
+	<path>/Users/jerry/Desktop/DSBA/Second Year/Deep Learning for Computer Vision/instagram-scraper/Nikewear/121600749_629106981330075_4508695633345659393_n.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1080</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Nike</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>591</xmin>
+			<ymin>285</ymin>
+			<xmax>682</xmax>
+			<ymax>340</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Nike</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>409</xmin>
+			<ymin>871</ymin>
+			<xmax>557</xmax>
+			<ymax>936</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>nikewear</folder>
+	<filename>121506553_193355895697471_8047014093447669913_n.jpg</filename>
+	<path>/Users/chiarapozzato/Desktop/BOCCONI/DP_CV/nikewear/121506553_193355895697471_8047014093447669913_n.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>872</width>
+		<height>872</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Nike</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>748</xmin>
+			<ymin>10</ymin>
+			<xmax>828</xmax>
+			<ymax>199</ymax>
+		</bndbox>
+	</object>
+</annotation>

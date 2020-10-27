@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Immagini Nike</folder>
+	<filename>122151509_471517110474576_8964481821190997965_n.jpg</filename>
+	<path>C:\Users\fabio\Desktop\DSBA\II anno\I semestre\Deep learning for computer vision\Immagini Nike\122151509_471517110474576_8964481821190997965_n.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>750</width>
+		<height>750</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Nike</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>238</xmin>
+			<ymin>322</ymin>
+			<xmax>283</xmax>
+			<ymax>359</ymax>
+		</bndbox>
+	</object>
+</annotation>

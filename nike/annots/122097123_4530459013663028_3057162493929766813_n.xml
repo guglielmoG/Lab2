@@ -1,0 +1,26 @@
+<annotation>
+	<folder>nikeshoes</folder>
+	<filename>122097123_4530459013663028_3057162493929766813_n.jpg</filename>
+	<path>/Users/bubi/Downloads/nikeshoes/122097123_4530459013663028_3057162493929766813_n.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1080</width>
+		<height>1350</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Nike</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>233</xmin>
+			<ymin>871</ymin>
+			<xmax>352</xmax>
+			<ymax>990</ymax>
+		</bndbox>
+	</object>
+</annotation>
