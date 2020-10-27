@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>adidas_276.jpg</filename>
+	<path>/Users/nicolausholzach/Desktop/Dateien/Master/Bocconi/3rd Semester/Computer Vision/CVLab2/images/adidas_276.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1079</width>
+		<height>1340</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Adidas</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>305</xmin>
+			<ymin>731</ymin>
+			<xmax>398</xmax>
+			<ymax>832</ymax>
+		</bndbox>
+	</object>
+</annotation>

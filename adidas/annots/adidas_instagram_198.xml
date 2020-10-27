@@ -1,0 +1,38 @@
+<annotation>
+	<folder>images</folder>
+	<filename>adidas_205.jpg</filename>
+	<path>/Users/nicolausholzach/Desktop/Dateien/Master/Bocconi/3rd Semester/Computer Vision/CVLab2/images/adidas_205.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>938</width>
+		<height>938</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Adidas</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>88</xmin>
+			<ymin>656</ymin>
+			<xmax>938</xmax>
+			<ymax>871</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Adidas</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>643</xmin>
+			<ymin>206</ymin>
+			<xmax>706</xmax>
+			<ymax>251</ymax>
+		</bndbox>
+	</object>
+</annotation>

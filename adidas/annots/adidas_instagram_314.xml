@@ -1,0 +1,26 @@
+<annotation>
+	<folder>A J</folder>
+	<filename>adidas_469.jpg</filename>
+	<path>C:\Users\muell\Desktop\A J\adidas_469.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>960</width>
+		<height>720</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Adidas</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>927</xmin>
+			<ymin>232</ymin>
+			<xmax>960</xmax>
+			<ymax>283</ymax>
+		</bndbox>
+	</object>
+</annotation>

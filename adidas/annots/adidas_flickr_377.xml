@@ -1,0 +1,38 @@
+<annotation>
+	<folder>adidas_flickr_301-400</folder>
+	<filename>adidas_flickr_377.jpg</filename>
+	<path>C:\Users\Eleonora\OneDrive - Università Commerciale Luigi Bocconi\Università Bocconi\A.A. 2020-2021\1st semester\20600 - Deep Learning\Assignment\adidas_flickr_301-400\adidas_flickr_377.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>6000</width>
+		<height>4000</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Adidas</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2239</xmin>
+			<ymin>2050</ymin>
+			<xmax>2691</xmax>
+			<ymax>2454</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Adidas</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>3152</xmin>
+			<ymin>2119</ymin>
+			<xmax>3596</xmax>
+			<ymax>2545</ymax>
+		</bndbox>
+	</object>
+</annotation>

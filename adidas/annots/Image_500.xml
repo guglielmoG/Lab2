@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Cri-451-500</folder>
+	<filename>Image_500.jpg</filename>
+	<path>/Users/cristina/Desktop/Cri-451-500/Image_500.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1200</width>
+		<height>1200</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Adidas</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>344</xmin>
+			<ymin>601</ymin>
+			<xmax>437</xmax>
+			<ymax>633</ymax>
+		</bndbox>
+	</object>
+</annotation>

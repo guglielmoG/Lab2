@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Cri</folder>
+	<filename>Image_96.jpg</filename>
+	<path>/Users/cristina/Desktop/Cri/Image_96.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1080</width>
+		<height>1920</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Adidas</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>111</xmin>
+			<ymin>621</ymin>
+			<xmax>961</xmax>
+			<ymax>1451</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>adidas</folder>
+	<filename>adidas_882.jpg</filename>
+	<path>C:\Users\Felix\Downloads\adidas-20201026T140709Z-001\adidas\adidas_882.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1080</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Adidas</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>587</xmin>
+			<ymin>810</ymin>
+			<xmax>631</xmax>
+			<ymax>859</ymax>
+		</bndbox>
+	</object>
+</annotation>
