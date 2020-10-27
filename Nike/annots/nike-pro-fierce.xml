@@ -1,0 +1,26 @@
+<annotation>
+	<folder>nike_athletes</folder>
+	<filename>nike-pro-fierce.jpg</filename>
+	<path>/Users/leonieintat/Desktop/Bocconi/11_Deep_Learning_for_Computer_Vision/Nike_Images/nike_athletes/nike-pro-fierce.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>318</width>
+		<height>228</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Nike</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>121</xmin>
+			<ymin>65</ymin>
+			<xmax>131</xmax>
+			<ymax>71</ymax>
+		</bndbox>
+	</object>
+</annotation>

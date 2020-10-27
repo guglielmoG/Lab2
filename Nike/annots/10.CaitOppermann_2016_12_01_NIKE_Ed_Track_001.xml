@@ -1,0 +1,26 @@
+<annotation>
+	<folder>nike_athletes</folder>
+	<filename>10.CaitOppermann_2016_12_01_NIKE_Ed_Track_001.jpg</filename>
+	<path>C:\Users\t-valto\Pictures\nike_athletes\10.CaitOppermann_2016_12_01_NIKE_Ed_Track_001.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2264</width>
+		<height>1511</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Nike</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>961</xmin>
+			<ymin>782</ymin>
+			<xmax>1084</xmax>
+			<ymax>887</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>01 (chia)</folder>
+	<filename>3764600390_02a00b4d4e_o.jpg</filename>
+	<path>C:\Users\diboc\Documents\Università\2° ANNO DSBA\Computer Vision - Grossetti Rubera\00_Lab\01 (chia)\3764600390_02a00b4d4e_o.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2759</width>
+		<height>1625</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>nike</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1086</xmin>
+			<ymin>1003</ymin>
+			<xmax>1297</xmax>
+			<ymax>1097</ymax>
+		</bndbox>
+	</object>
+</annotation>

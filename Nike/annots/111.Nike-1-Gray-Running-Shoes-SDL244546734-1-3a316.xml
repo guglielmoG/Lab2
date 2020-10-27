@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Nike</folder>
+	<filename>111.Nike-1-Gray-Running-Shoes-SDL244546734-1-3a316.jpeg</filename>
+	<path>C:\Users\kampw\Desktop\Nike\111.Nike-1-Gray-Running-Shoes-SDL244546734-1-3a316.jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>850</width>
+		<height>995</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Nike</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>615</xmin>
+			<ymin>356</ymin>
+			<xmax>793</xmax>
+			<ymax>542</ymax>
+		</bndbox>
+	</object>
+</annotation>

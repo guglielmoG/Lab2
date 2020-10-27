@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Nike</folder>
+	<filename>103.featured_niketown1.jpg</filename>
+	<path>C:\Users\kampw\Desktop\Nike\103.featured_niketown1.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>908</width>
+		<height>510</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Nike</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>738</xmin>
+			<ymin>28</ymin>
+			<xmax>870</xmax>
+			<ymax>92</ymax>
+		</bndbox>
+	</object>
+</annotation>

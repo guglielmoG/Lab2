@@ -1,0 +1,26 @@
+<annotation>
+	<folder>nike_athletes</folder>
+	<filename>8.Nike_Dri-FIT_Knit_2_original.jpg</filename>
+	<path>C:\Users\t-valto\Pictures\nike_athletes\8.Nike_Dri-FIT_Knit_2_original.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>7000</width>
+		<height>5000</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Nike</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>4850</xmin>
+			<ymin>3593</ymin>
+			<xmax>5046</xmax>
+			<ymax>3772</ymax>
+		</bndbox>
+	</object>
+</annotation>

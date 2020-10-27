@@ -1,0 +1,26 @@
+<annotation>
+	<folder>nike_shops</folder>
+	<filename>4.sacl_nke_nike_store_outlet_sign.jpeg</filename>
+	<path>C:\Users\t-valto\Pictures\nike_shops\4.sacl_nke_nike_store_outlet_sign.jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>3413</width>
+		<height>2559</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Nike</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1150</xmin>
+			<ymin>257</ymin>
+			<xmax>2322</xmax>
+			<ymax>697</ymax>
+		</bndbox>
+	</object>
+</annotation>

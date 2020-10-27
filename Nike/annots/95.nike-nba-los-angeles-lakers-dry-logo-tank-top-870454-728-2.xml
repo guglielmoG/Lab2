@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Nike</folder>
+	<filename>95.nike-nba-los-angeles-lakers-dry-logo-tank-top-870454-728-2.jpg</filename>
+	<path>C:\Users\kampw\Desktop\Nike\95.nike-nba-los-angeles-lakers-dry-logo-tank-top-870454-728-2.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1001</width>
+		<height>1001</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Nike</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>295</xmin>
+			<ymin>198</ymin>
+			<xmax>377</xmax>
+			<ymax>239</ymax>
+		</bndbox>
+	</object>
+</annotation>

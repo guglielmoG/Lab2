@@ -1,0 +1,26 @@
+<annotation>
+	<folder>nike_influencers</folder>
+	<filename>screen-shot-2017-10-16-at-1-01-43-pm.png</filename>
+	<path>/Users/leonieintat/Desktop/Bocconi/11_Deep_Learning_for_Computer_Vision/Nike_Images/nike_influencers/screen-shot-2017-10-16-at-1-01-43-pm.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>931</width>
+		<height>593</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Nike</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>161</xmin>
+			<ymin>211</ymin>
+			<xmax>268</xmax>
+			<ymax>367</ymax>
+		</bndbox>
+	</object>
+</annotation>

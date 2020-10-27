@@ -1,0 +1,26 @@
+<annotation>
+	<folder>nike_athletes</folder>
+	<filename>5e3ae0f25bc79c45e7298abb.jpeg</filename>
+	<path>/Users/leonieintat/Desktop/Bocconi/11_Deep_Learning_for_Computer_Vision/Nike_Images/nike_athletes/5e3ae0f25bc79c45e7298abb.jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1100</width>
+		<height>825</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Nike</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>496</xmin>
+			<ymin>304</ymin>
+			<xmax>518</xmax>
+			<ymax>322</ymax>
+		</bndbox>
+	</object>
+</annotation>

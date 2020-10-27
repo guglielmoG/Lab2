@@ -1,0 +1,26 @@
+<annotation>
+	<folder>nike_merchandise</folder>
+	<filename>inter-milan-home-stadium-shirt-2020-21_ss4_p-12015013+u-bw37tjc3hzg4fwm7m34x+v-1940cbc0563740c6acc7f3ce9312dd10.jpg</filename>
+	<path>/Users/leonieintat/Desktop/Bocconi/11_Deep_Learning_for_Computer_Vision/Nike_Images/nike_merchandise/inter-milan-home-stadium-shirt-2020-21_ss4_p-12015013+u-bw37tjc3hzg4fwm7m34x+v-1940cbc0563740c6acc7f3ce9312dd10.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>340</width>
+		<height>340</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Nike</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>159</xmin>
+			<ymin>99</ymin>
+			<xmax>185</xmax>
+			<ymax>115</ymax>
+		</bndbox>
+	</object>
+</annotation>

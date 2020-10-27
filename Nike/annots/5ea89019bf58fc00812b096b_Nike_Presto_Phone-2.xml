@@ -1,0 +1,26 @@
+<annotation>
+	<folder>nike_influencers</folder>
+	<filename>5ea89019bf58fc00812b096b_Nike_Presto_Phone-2.jpg</filename>
+	<path>/Users/leonieintat/Desktop/Bocconi/11_Deep_Learning_for_Computer_Vision/Nike_Images/nike_influencers/5ea89019bf58fc00812b096b_Nike_Presto_Phone-2.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2100</width>
+		<height>1050</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Nike</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1365</xmin>
+			<ymin>164</ymin>
+			<xmax>1404</xmax>
+			<ymax>188</ymax>
+		</bndbox>
+	</object>
+</annotation>

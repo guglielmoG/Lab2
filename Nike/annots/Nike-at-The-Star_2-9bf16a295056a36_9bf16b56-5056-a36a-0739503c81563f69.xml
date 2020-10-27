@@ -1,0 +1,26 @@
+<annotation>
+	<folder>nike_merchandise</folder>
+	<filename>Nike-at-The-Star_2-9bf16a295056a36_9bf16b56-5056-a36a-0739503c81563f69.jpg</filename>
+	<path>/Users/leonieintat/Desktop/Bocconi/11_Deep_Learning_for_Computer_Vision/Nike_Images/nike_merchandise/Nike-at-The-Star_2-9bf16a295056a36_9bf16b56-5056-a36a-0739503c81563f69.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1024</width>
+		<height>612</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Nike</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>765</xmin>
+			<ymin>522</ymin>
+			<xmax>802</xmax>
+			<ymax>583</ymax>
+		</bndbox>
+	</object>
+</annotation>

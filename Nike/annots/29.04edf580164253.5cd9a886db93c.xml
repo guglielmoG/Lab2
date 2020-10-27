@@ -1,0 +1,26 @@
+<annotation>
+	<folder>nike_influencers</folder>
+	<filename>29.04edf580164253.5cd9a886db93c.jpg</filename>
+	<path>C:\Users\t-valto\Pictures\nike_influencers\29.04edf580164253.5cd9a886db93c.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1400</width>
+		<height>858</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Nike</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>494</xmin>
+			<ymin>557</ymin>
+			<xmax>573</xmax>
+			<ymax>631</ymax>
+		</bndbox>
+	</object>
+</annotation>

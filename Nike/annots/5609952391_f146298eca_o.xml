@@ -1,0 +1,26 @@
+<annotation>
+	<folder>04 immagini Flavia Monaci</folder>
+	<filename>5609952391_f146298eca_o.jpg</filename>
+	<path>C:\Users\Flavia\Documents\1 Semestre 2 anno Master\computer vision\Lab_01\04-20201022T074859Z-001\04 immagini Flavia Monaci\5609952391_f146298eca_o.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1200</width>
+		<height>1600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Nike</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>445</xmin>
+			<ymin>950</ymin>
+			<xmax>617</xmax>
+			<ymax>1032</ymax>
+		</bndbox>
+	</object>
+</annotation>

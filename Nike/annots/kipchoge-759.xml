@@ -1,0 +1,26 @@
+<annotation>
+	<folder>nike_athletes</folder>
+	<filename>kipchoge-759.jpg</filename>
+	<path>/Users/leonieintat/Desktop/Bocconi/11_Deep_Learning_for_Computer_Vision/Nike_Images/nike_athletes/kipchoge-759.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>759</width>
+		<height>422</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Nike</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>383</xmin>
+			<ymin>223</ymin>
+			<xmax>423</xmax>
+			<ymax>241</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>nike_athletes</folder>
+	<filename>nike_young_athletes_nike_young_athletes_dri-fit_tempo_big_kids_running_shorts_-848196-010-_celana_anak_perempuan_black-black-white-white_full05_djpdsg4f.jpg</filename>
+	<path>/Users/leonieintat/Desktop/Bocconi/11_Deep_Learning_for_Computer_Vision/Nike_Images/nike_athletes/nike_young_athletes_nike_young_athletes_dri-fit_tempo_big_kids_running_shorts_-848196-010-_celana_anak_perempuan_black-black-white-white_full05_djpdsg4f.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>800</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Nike</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>577</xmin>
+			<ymin>375</ymin>
+			<xmax>633</xmax>
+			<ymax>430</ymax>
+		</bndbox>
+	</object>
+</annotation>

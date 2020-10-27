@@ -1,0 +1,26 @@
+<annotation>
+	<folder>nike_athletes</folder>
+	<filename>5.1069425_550518124985413_1315081114_n.jpg</filename>
+	<path>C:\Users\t-valto\Pictures\nike_athletes\5.1069425_550518124985413_1315081114_n.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>960</width>
+		<height>600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Nike</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>695</xmin>
+			<ymin>514</ymin>
+			<xmax>756</xmax>
+			<ymax>580</ymax>
+		</bndbox>
+	</object>
+</annotation>

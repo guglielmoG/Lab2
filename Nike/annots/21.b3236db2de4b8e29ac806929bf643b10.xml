@@ -1,0 +1,26 @@
+<annotation>
+	<folder>nike_merchandise</folder>
+	<filename>21.b3236db2de4b8e29ac806929bf643b10.jpg</filename>
+	<path>C:\Users\t-valto\Pictures\nike_merchandise\21.b3236db2de4b8e29ac806929bf643b10.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>478</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Nike</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>19</xmin>
+			<ymin>21</ymin>
+			<xmax>620</xmax>
+			<ymax>456</ymax>
+		</bndbox>
+	</object>
+</annotation>

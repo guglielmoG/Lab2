@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Nike</folder>
+	<filename>95.bella-hadid-conjuntinho-nike-preto-cropped-20180410162158.jpg</filename>
+	<path>C:\Users\kampw\Desktop\Nike\95.bella-hadid-conjuntinho-nike-preto-cropped-20180410162158.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>600</width>
+		<height>945</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Nike</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>253</xmin>
+			<ymin>305</ymin>
+			<xmax>390</xmax>
+			<ymax>388</ymax>
+		</bndbox>
+	</object>
+</annotation>

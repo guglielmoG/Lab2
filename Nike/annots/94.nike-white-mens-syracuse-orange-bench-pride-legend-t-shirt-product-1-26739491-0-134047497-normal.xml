@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Nike</folder>
+	<filename>94.nike-white-mens-syracuse-orange-bench-pride-legend-t-shirt-product-1-26739491-0-134047497-normal.jpeg</filename>
+	<path>C:\Users\kampw\Desktop\Nike\94.nike-white-mens-syracuse-orange-bench-pride-legend-t-shirt-product-1-26739491-0-134047497-normal.jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1320</width>
+		<height>1616</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Nike</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>848</xmin>
+			<ymin>179</ymin>
+			<xmax>1003</xmax>
+			<ymax>258</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>nike_shops</folder>
+	<filename>105639912-1545322753804gettyimages-1027343414.jpeg</filename>
+	<path>/Users/leonieintat/Desktop/Bocconi/11_Deep_Learning_for_Computer_Vision/Nike_Images/nike_shops/105639912-1545322753804gettyimages-1027343414.jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>3000</width>
+		<height>2000</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Nike</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1056</xmin>
+			<ymin>434</ymin>
+			<xmax>2059</xmax>
+			<ymax>787</ymax>
+		</bndbox>
+	</object>
+</annotation>

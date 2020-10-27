@@ -1,0 +1,26 @@
+<annotation>
+	<folder>nike_merchandise</folder>
+	<filename>13.Nike_NOS_Copacabana-3_hd_1600.jpg</filename>
+	<path>C:\Users\t-valto\Pictures\nike_merchandise\13.Nike_NOS_Copacabana-3_hd_1600.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1600</width>
+		<height>900</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Nike</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>288</xmin>
+			<ymin>571</ymin>
+			<xmax>323</xmax>
+			<ymax>593</ymax>
+		</bndbox>
+	</object>
+</annotation>

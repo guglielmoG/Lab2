@@ -1,0 +1,26 @@
+<annotation>
+	<folder>nike_influencers</folder>
+	<filename>1601812753_891_Meet-Australias-hijabi-Instagram-influencers-who-cater-to-the-countrys.jpg</filename>
+	<path>/Users/leonieintat/Desktop/Bocconi/11_Deep_Learning_for_Computer_Vision/Nike_Images/nike_influencers/1601812753_891_Meet-Australias-hijabi-Instagram-influencers-who-cater-to-the-countrys.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>634</width>
+		<height>845</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Nike</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>388</xmin>
+			<ymin>104</ymin>
+			<xmax>451</xmax>
+			<ymax>148</ymax>
+		</bndbox>
+	</object>
+</annotation>

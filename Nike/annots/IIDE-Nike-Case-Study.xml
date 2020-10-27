@@ -1,0 +1,26 @@
+<annotation>
+	<folder>nike_influencers</folder>
+	<filename>IIDE-Nike-Case-Study.jpg</filename>
+	<path>/Users/leonieintat/Desktop/Bocconi/11_Deep_Learning_for_Computer_Vision/Nike_Images/nike_influencers/IIDE-Nike-Case-Study.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>795</width>
+		<height>499</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Nike</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>140</xmin>
+			<ymin>162</ymin>
+			<xmax>284</xmax>
+			<ymax>272</ymax>
+		</bndbox>
+	</object>
+</annotation>

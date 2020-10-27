@@ -1,0 +1,26 @@
+<annotation>
+	<folder>nike_athletes</folder>
+	<filename>allyson-felix-denounces-nike-for-failing-to-financially-support-athletes-during-pregnancy__50925_.jpg</filename>
+	<path>/Users/leonieintat/Desktop/Bocconi/11_Deep_Learning_for_Computer_Vision/Nike_Images/nike_athletes/allyson-felix-denounces-nike-for-failing-to-financially-support-athletes-during-pregnancy__50925_.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>799</width>
+		<height>559</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Nike</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>501</xmin>
+			<ymin>231</ymin>
+			<xmax>550</xmax>
+			<ymax>255</ymax>
+		</bndbox>
+	</object>
+</annotation>

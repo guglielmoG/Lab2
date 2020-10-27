@@ -1,0 +1,26 @@
+<annotation>
+	<folder>nike_shops</folder>
+	<filename>30.nike-shop.jpg</filename>
+	<path>/Users/konradeilers/google-images-download/images/nike_shops/30.nike-shop.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1632</width>
+		<height>1224</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>nike</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>655</xmin>
+			<ymin>439</ymin>
+			<xmax>799</xmax>
+			<ymax>552</ymax>
+		</bndbox>
+	</object>
+</annotation>

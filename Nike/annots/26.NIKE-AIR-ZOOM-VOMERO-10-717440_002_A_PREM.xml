@@ -1,0 +1,26 @@
+<annotation>
+	<folder>nike_shops</folder>
+	<filename>26.NIKE-AIR-ZOOM-VOMERO-10-717440_002_A_PREM.jpg</filename>
+	<path>C:\Users\t-valto\Pictures\nike_shops\26.NIKE-AIR-ZOOM-VOMERO-10-717440_002_A_PREM.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2000</width>
+		<height>2000</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Nike</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>268</xmin>
+			<ymin>920</ymin>
+			<xmax>858</xmax>
+			<ymax>1299</ymax>
+		</bndbox>
+	</object>
+</annotation>

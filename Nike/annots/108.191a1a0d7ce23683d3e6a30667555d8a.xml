@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Nike</folder>
+	<filename>108.191a1a0d7ce23683d3e6a30667555d8a.jpg</filename>
+	<path>C:\Users\kampw\Desktop\Nike\108.191a1a0d7ce23683d3e6a30667555d8a.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>600</width>
+		<height>389</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Nike</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>458</xmin>
+			<ymin>210</ymin>
+			<xmax>520</xmax>
+			<ymax>233</ymax>
+		</bndbox>
+	</object>
+</annotation>

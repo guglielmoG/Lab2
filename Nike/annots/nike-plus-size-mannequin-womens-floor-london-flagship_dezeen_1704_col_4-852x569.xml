@@ -1,0 +1,26 @@
+<annotation>
+	<folder>nike_shops</folder>
+	<filename>nike-plus-size-mannequin-womens-floor-london-flagship_dezeen_1704_col_4-852x569.jpg</filename>
+	<path>/Users/leonieintat/Desktop/Bocconi/11_Deep_Learning_for_Computer_Vision/Nike_Images/nike_shops/nike-plus-size-mannequin-womens-floor-london-flagship_dezeen_1704_col_4-852x569.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>852</width>
+		<height>569</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Nike</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>366</xmin>
+			<ymin>164</ymin>
+			<xmax>397</xmax>
+			<ymax>184</ymax>
+		</bndbox>
+	</object>
+</annotation>

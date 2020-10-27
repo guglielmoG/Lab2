@@ -1,0 +1,26 @@
+<annotation>
+	<folder>nike_merchandise</folder>
+	<filename>NelsonNike-Opinion9-12-1810-900x600.jpg</filename>
+	<path>/Users/leonieintat/Desktop/Bocconi/11_Deep_Learning_for_Computer_Vision/Nike_Images/nike_merchandise/NelsonNike-Opinion9-12-1810-900x600.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>900</width>
+		<height>600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Nike</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>441</xmin>
+			<ymin>130</ymin>
+			<xmax>511</xmax>
+			<ymax>166</ymax>
+		</bndbox>
+	</object>
+</annotation>

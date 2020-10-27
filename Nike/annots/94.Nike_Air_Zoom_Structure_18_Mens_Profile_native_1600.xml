@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Nike</folder>
+	<filename>94.Nike_Air_Zoom_Structure_18_Mens_Profile_native_1600.jpg</filename>
+	<path>C:\Users\kampw\Desktop\Nike\94.Nike_Air_Zoom_Structure_18_Mens_Profile_native_1600.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1600</width>
+		<height>1200</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Nike</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>605</xmin>
+			<ymin>526</ymin>
+			<xmax>954</xmax>
+			<ymax>672</ymax>
+		</bndbox>
+	</object>
+</annotation>

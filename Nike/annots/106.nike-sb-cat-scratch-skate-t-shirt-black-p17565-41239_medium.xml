@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Nike</folder>
+	<filename>106.nike-sb-cat-scratch-skate-t-shirt-black-p17565-41239_medium.jpg</filename>
+	<path>C:\Users\kampw\Desktop\Nike\106.nike-sb-cat-scratch-skate-t-shirt-black-p17565-41239_medium.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>665</width>
+		<height>665</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Nike</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>200</xmin>
+			<ymin>123</ymin>
+			<xmax>473</xmax>
+			<ymax>238</ymax>
+		</bndbox>
+	</object>
+</annotation>

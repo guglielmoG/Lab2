@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Nike</folder>
+	<filename>97.cover1-nike.jpg</filename>
+	<path>C:\Users\kampw\Desktop\Nike\97.cover1-nike.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1110</width>
+		<height>600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Nike</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>763</xmin>
+			<ymin>270</ymin>
+			<xmax>979</xmax>
+			<ymax>404</ymax>
+		</bndbox>
+	</object>
+</annotation>

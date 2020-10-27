@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Nike</folder>
+	<filename>91.Nike-Marina_Store_Front-Med-Res-5.16.14-1b_native_600.jpg</filename>
+	<path>C:\Users\kampw\Desktop\Nike\91.Nike-Marina_Store_Front-Med-Res-5.16.14-1b_native_600.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>600</width>
+		<height>470</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Nike</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>307</xmin>
+			<ymin>93</ymin>
+			<xmax>447</xmax>
+			<ymax>170</ymax>
+		</bndbox>
+	</object>
+</annotation>

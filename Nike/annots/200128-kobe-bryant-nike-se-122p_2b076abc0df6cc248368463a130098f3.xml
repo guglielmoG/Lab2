@@ -1,0 +1,26 @@
+<annotation>
+	<folder>nike_merchandise</folder>
+	<filename>200128-kobe-bryant-nike-se-122p_2b076abc0df6cc248368463a130098f3.jpg</filename>
+	<path>/Users/leonieintat/Desktop/Bocconi/11_Deep_Learning_for_Computer_Vision/Nike_Images/nike_merchandise/200128-kobe-bryant-nike-se-122p_2b076abc0df6cc248368463a130098f3.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2500</width>
+		<height>1663</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Nike</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1709</xmin>
+			<ymin>1380</ymin>
+			<xmax>1911</xmax>
+			<ymax>1495</ymax>
+		</bndbox>
+	</object>
+</annotation>

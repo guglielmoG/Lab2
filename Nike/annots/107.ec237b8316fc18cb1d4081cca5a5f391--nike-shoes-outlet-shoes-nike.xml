@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Nike</folder>
+	<filename>107.ec237b8316fc18cb1d4081cca5a5f391--nike-shoes-outlet-shoes-nike.jpg</filename>
+	<path>C:\Users\kampw\Desktop\Nike\107.ec237b8316fc18cb1d4081cca5a5f391--nike-shoes-outlet-shoes-nike.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>570</width>
+		<height>399</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Nike</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>100</xmin>
+			<ymin>166</ymin>
+			<xmax>272</xmax>
+			<ymax>238</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>nike_shops</folder>
+	<filename>14.WMNS-NIKE-LUNARTEMPO-2-818098_400_A_PREM.jpg</filename>
+	<path>C:\Users\t-valto\Pictures\nike_shops\14.WMNS-NIKE-LUNARTEMPO-2-818098_400_A_PREM.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2000</width>
+		<height>2000</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Nike</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>293</xmin>
+			<ymin>973</ymin>
+			<xmax>1194</xmax>
+			<ymax>1457</ymax>
+		</bndbox>
+	</object>
+</annotation>

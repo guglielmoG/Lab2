@@ -1,0 +1,26 @@
+<annotation>
+	<folder>nike</folder>
+	<filename>5345858606_a59b430a00_o.jpg</filename>
+	<path>C:\Users\aless\Downloads\FLICKR\nike\5345858606_a59b430a00_o.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>576</width>
+		<height>432</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Nike</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>225</xmin>
+			<ymin>157</ymin>
+			<xmax>354</xmax>
+			<ymax>296</ymax>
+		</bndbox>
+	</object>
+</annotation>

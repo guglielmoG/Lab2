@@ -1,0 +1,26 @@
+<annotation>
+	<folder>nike_influencers</folder>
+	<filename>18.nike_kyrie_fbmessenger_psfk.jpg</filename>
+	<path>C:\Users\t-valto\Pictures\nike_influencers\18.nike_kyrie_fbmessenger_psfk.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>999</width>
+		<height>668</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Nike</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>556</xmin>
+			<ymin>275</ymin>
+			<xmax>891</xmax>
+			<ymax>491</ymax>
+		</bndbox>
+	</object>
+</annotation>

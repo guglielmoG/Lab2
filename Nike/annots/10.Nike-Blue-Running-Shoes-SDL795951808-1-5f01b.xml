@@ -1,0 +1,26 @@
+<annotation>
+	<folder>nike_shops</folder>
+	<filename>10.Nike-Blue-Running-Shoes-SDL795951808-1-5f01b.jpg</filename>
+	<path>C:\Users\t-valto\Pictures\nike_shops\10.Nike-Blue-Running-Shoes-SDL795951808-1-5f01b.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>850</width>
+		<height>995</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Nike</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>26</xmin>
+			<ymin>378</ymin>
+			<xmax>305</xmax>
+			<ymax>635</ymax>
+		</bndbox>
+	</object>
+</annotation>

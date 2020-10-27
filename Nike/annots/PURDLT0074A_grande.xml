@@ -1,0 +1,26 @@
+<annotation>
+	<folder>nike_merchandise</folder>
+	<filename>PURDLT0074A_grande.jpg</filename>
+	<path>/Users/leonieintat/Desktop/Bocconi/11_Deep_Learning_for_Computer_Vision/Nike_Images/nike_merchandise/PURDLT0074A_grande.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>442</width>
+		<height>600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Nike</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>161</xmin>
+			<ymin>178</ymin>
+			<xmax>192</xmax>
+			<ymax>195</ymax>
+		</bndbox>
+	</object>
+</annotation>

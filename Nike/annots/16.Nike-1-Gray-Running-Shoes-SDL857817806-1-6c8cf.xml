@@ -1,0 +1,26 @@
+<annotation>
+	<folder>nike_shops</folder>
+	<filename>16.Nike-1-Gray-Running-Shoes-SDL857817806-1-6c8cf.png</filename>
+	<path>C:\Users\t-valto\Pictures\nike_shops\16.Nike-1-Gray-Running-Shoes-SDL857817806-1-6c8cf.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>850</width>
+		<height>995</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Nike</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>615</xmin>
+			<ymin>354</ymin>
+			<xmax>823</xmax>
+			<ymax>548</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Nike</folder>
+	<filename>95.nike-wolf-grey-black-flyknit-lunar1-running-shoe-product-1-11770622-206671654.jpeg</filename>
+	<path>C:\Users\kampw\Desktop\Nike\95.nike-wolf-grey-black-flyknit-lunar1-running-shoe-product-1-11770622-206671654.jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1100</width>
+		<height>1687</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Nike</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>152</xmin>
+			<ymin>884</ymin>
+			<xmax>485</xmax>
+			<ymax>1182</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>nike_merchandise</folder>
+	<filename>29.nike-lebron-james-dry-nba-player-pack-basketball-tee-924629-010-2.jpg</filename>
+	<path>C:\Users\t-valto\Pictures\nike_merchandise\29.nike-lebron-james-dry-nba-player-pack-basketball-tee-924629-010-2.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1038</width>
+		<height>1038</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Nike</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>397</xmin>
+			<ymin>599</ymin>
+			<xmax>495</xmax>
+			<ymax>661</ymax>
+		</bndbox>
+	</object>
+</annotation>

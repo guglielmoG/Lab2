@@ -1,0 +1,26 @@
+<annotation>
+	<folder>02</folder>
+	<filename>4828893245_c2d06762f6_o.jpg</filename>
+	<path>C:\Users\caate\Documents\2nd YEAR MASTER\Computer Vision\02\4828893245_c2d06762f6_o.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2048</width>
+		<height>1536</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Nike</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1148</xmin>
+			<ymin>628</ymin>
+			<xmax>1761</xmax>
+			<ymax>1089</ymax>
+		</bndbox>
+	</object>
+</annotation>

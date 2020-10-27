@@ -1,0 +1,26 @@
+<annotation>
+	<folder>nike_athletes</folder>
+	<filename>nike-nurses.jpg</filename>
+	<path>/Users/leonieintat/Desktop/Bocconi/11_Deep_Learning_for_Computer_Vision/Nike_Images/nike_athletes/nike-nurses.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>973</width>
+		<height>542</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Nike</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>562</xmin>
+			<ymin>309</ymin>
+			<xmax>666</xmax>
+			<ymax>363</ymax>
+		</bndbox>
+	</object>
+</annotation>

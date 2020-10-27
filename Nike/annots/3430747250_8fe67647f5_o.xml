@@ -1,0 +1,26 @@
+<annotation>
+	<folder>03</folder>
+	<filename>3430747250_8fe67647f5_o.jpg</filename>
+	<path>C:\Users\Eugen\Pictures\03\3430747250_8fe67647f5_o.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>924</width>
+		<height>665</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Nike</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>232</xmin>
+			<ymin>392</ymin>
+			<xmax>404</xmax>
+			<ymax>456</ymax>
+		</bndbox>
+	</object>
+</annotation>
