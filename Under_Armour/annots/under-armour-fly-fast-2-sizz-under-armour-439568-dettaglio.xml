@@ -1,0 +1,26 @@
+<annotation>
+	<folder>under_armour_pictures</folder>
+	<filename>under-armour-fly-fast-2-sizz-under-armour-439568-dettaglio.jpg</filename>
+	<path>/Users/gianlucaregoli/Desktop/under_armour_pictures/under-armour-fly-fast-2-sizz-under-armour-439568-dettaglio.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>708</width>
+		<height>708</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Under_Armour</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>258</xmin>
+			<ymin>223</ymin>
+			<xmax>279</xmax>
+			<ymax>243</ymax>
+		</bndbox>
+	</object>
+</annotation>

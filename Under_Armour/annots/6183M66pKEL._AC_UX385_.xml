@@ -1,0 +1,26 @@
+<annotation>
+	<folder>under_armour_pictures</folder>
+	<filename>6183M66pKEL._AC_UX385_.jpg</filename>
+	<path>/Users/gianlucaregoli/Desktop/under_armour_pictures/6183M66pKEL._AC_UX385_.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>385</width>
+		<height>374</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Under_Armour</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>122</xmin>
+			<ymin>122</ymin>
+			<xmax>222</xmax>
+			<ymax>181</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>UA_Antonella</folder>
+	<filename>118579927_114791710209888_4717591357048114020_n.jpg</filename>
+	<path>/Users/antonella/Desktop/UA_Antonella/118579927_114791710209888_4717591357048114020_n.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1075</width>
+		<height>1075</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Under_Armour</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>337</xmin>
+			<ymin>719</ymin>
+			<xmax>471</xmax>
+			<ymax>816</ymax>
+		</bndbox>
+	</object>
+</annotation>

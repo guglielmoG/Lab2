@@ -1,0 +1,26 @@
+<annotation>
+	<folder>under_armour_pictures</folder>
+	<filename>91t3GejZZmL._AC_UL320_SR318,320_.jpg</filename>
+	<path>/Users/gianlucaregoli/Desktop/under_armour_pictures/91t3GejZZmL._AC_UL320_SR318,320_.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>318</width>
+		<height>320</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Under_Armour</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>207</xmin>
+			<ymin>195</ymin>
+			<xmax>245</xmax>
+			<ymax>220</ymax>
+		</bndbox>
+	</object>
+</annotation>

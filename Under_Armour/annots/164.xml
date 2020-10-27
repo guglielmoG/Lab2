@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Images</folder>
+	<filename>164.jpg</filename>
+	<path>/Users/charliejin/Desktop/Under_Armour_flickr_101_200/Images/164.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>612</width>
+		<height>612</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Under_Armour</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>243</xmin>
+			<ymin>468</ymin>
+			<xmax>397</xmax>
+			<ymax>562</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>under_armour_pictures</folder>
+	<filename>81-On2E-FkL._AC_UL320_SR246,320_.jpg</filename>
+	<path>/Users/gianlucaregoli/Desktop/under_armour_pictures/81-On2E-FkL._AC_UL320_SR246,320_.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>246</width>
+		<height>320</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Under_Armour</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>80</xmin>
+			<ymin>115</ymin>
+			<xmax>90</xmax>
+			<ymax>124</ymax>
+		</bndbox>
+	</object>
+</annotation>

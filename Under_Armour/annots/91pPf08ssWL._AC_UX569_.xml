@@ -1,0 +1,26 @@
+<annotation>
+	<folder>under_armour_pictures</folder>
+	<filename>91pPf08ssWL._AC_UX569_.jpg</filename>
+	<path>/Users/gianlucaregoli/Desktop/under_armour_pictures/91pPf08ssWL._AC_UX569_.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>569</width>
+		<height>643</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Under_Armour</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>446</xmin>
+			<ymin>287</ymin>
+			<xmax>550</xmax>
+			<ymax>349</ymax>
+		</bndbox>
+	</object>
+</annotation>

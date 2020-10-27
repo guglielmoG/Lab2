@@ -1,0 +1,26 @@
+<annotation>
+	<folder>ua_100</folder>
+	<filename>2017-04-02_01-07-35_UTC.jpg</filename>
+	<path>C:\Users\darry\OneDrive\Desktop\ua_100\2017-04-02_01-07-35_UTC.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>958</width>
+		<height>958</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Under_Armour</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>712</xmin>
+			<ymin>66</ymin>
+			<xmax>897</xmax>
+			<ymax>177</ymax>
+		</bndbox>
+	</object>
+</annotation>

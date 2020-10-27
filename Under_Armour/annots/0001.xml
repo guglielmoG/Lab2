@@ -1,0 +1,38 @@
+<annotation>
+	<folder>00-damage</folder>
+	<filename>0001.JPEG</filename>
+	<path>/Users/gianlucaregoli/Desktop/DSBA - 2/Deep Learning for CS/Group Project/kaggle_dataset/training/00-damage/0001.JPEG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>300</width>
+		<height>168</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>VetroLat_Rotto</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1</xmin>
+			<ymin>28</ymin>
+			<xmax>159</xmax>
+			<ymax>149</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>VetroPost_Rotto</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>129</xmin>
+			<ymin>27</ymin>
+			<xmax>300</xmax>
+			<ymax>142</ymax>
+		</bndbox>
+	</object>
+</annotation>

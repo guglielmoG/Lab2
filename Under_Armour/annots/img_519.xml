@@ -1,0 +1,26 @@
+<annotation>
+	<folder>underarmour_tagged</folder>
+	<filename>img_519.jpg</filename>
+	<path>/Users/davidecastellini/Downloads/underarmour_tagged/img_519.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>201</width>
+		<height>251</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Under_Armour</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>137</xmin>
+			<ymin>213</ymin>
+			<xmax>155</xmax>
+			<ymax>228</ymax>
+		</bndbox>
+	</object>
+</annotation>

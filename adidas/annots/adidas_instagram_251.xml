@@ -1,0 +1,26 @@
+<annotation>
+	<folder>adidas</folder>
+	<filename>adidas_369.jpg</filename>
+	<path>C:\Users\Felix\Downloads\adidaslebaseas\adidas\adidas_369.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1080</width>
+		<height>1346</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Adidas</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>518</xmin>
+			<ymin>448</ymin>
+			<xmax>584</xmax>
+			<ymax>502</ymax>
+		</bndbox>
+	</object>
+</annotation>

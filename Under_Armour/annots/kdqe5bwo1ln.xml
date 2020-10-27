@@ -1,0 +1,26 @@
+<annotation>
+	<folder>under_armour_pictures</folder>
+	<filename>kdqe5bwo1ln.jp2</filename>
+	<path>/Users/gianlucaregoli/Desktop/under_armour_pictures/kdqe5bwo1ln.jp2</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>330</width>
+		<height>440</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Under_Armour</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>122</xmin>
+			<ymin>157</ymin>
+			<xmax>184</xmax>
+			<ymax>199</ymax>
+		</bndbox>
+	</object>
+</annotation>

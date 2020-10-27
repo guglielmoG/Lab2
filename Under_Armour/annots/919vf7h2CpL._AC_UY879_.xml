@@ -1,0 +1,26 @@
+<annotation>
+	<folder>under_armour_pictures</folder>
+	<filename>919vf7h2CpL._AC_UY879_.jpg</filename>
+	<path>/Users/gianlucaregoli/Desktop/under_armour_pictures/919vf7h2CpL._AC_UY879_.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>527</width>
+		<height>879</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Under_Armour</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>139</xmin>
+			<ymin>265</ymin>
+			<xmax>360</xmax>
+			<ymax>396</ymax>
+		</bndbox>
+	</object>
+</annotation>

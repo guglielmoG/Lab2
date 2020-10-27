@@ -1,0 +1,26 @@
+<annotation>
+	<folder>pictures</folder>
+	<filename>img_471.jpg</filename>
+	<path>C:\Users\anna9\Desktop\pictures\img_471.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>225</width>
+		<height>224</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Under_Armour</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>73</xmin>
+			<ymin>62</ymin>
+			<xmax>118</xmax>
+			<ymax>90</ymax>
+		</bndbox>
+	</object>
+</annotation>
